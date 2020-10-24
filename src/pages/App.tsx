@@ -37,6 +37,7 @@ const App = () => {
       if (playMode === MODE.SINGLE_CYCLE) {
         return
       }
+
       playNextMusic()
     },
   })
